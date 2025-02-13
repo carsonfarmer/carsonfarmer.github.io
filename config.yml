@@ -34,7 +34,7 @@ avatar: "./images/profile.png"
 name: "@carsonfarmer"
 
 # Tagline section text
-tagline: >-
+tagline: >
   Head of Research <a href="https://x.com/textileio">@textileio</a> and <a href="https://x.com/recallnet">@recallnet</a>, working on distributed systems, data structures, blockchain, and ai/machine learning.
 
 # List of links
@@ -99,10 +99,10 @@ socials:
       target: "_blank"
 
 # Footer text
-footer: >-
+footer: >
   Hi there! Follow me on Twitter, Bluesky, and GitHub and/or reach out via LinkedIn or Email.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
-copyright: >-
+copyright: >
   © 2025  <a href="https://carsonfarmer.com" target="_blank">Carson Farmer</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
