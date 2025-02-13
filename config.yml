@@ -31,11 +31,11 @@ title: "Carson Farmer"
 avatar: "./images/profile.png"
 
 # Name section text
-name: "@carsonfarmer | @cjqf"
+name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >
-  head of research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning. Someting else <a href="https://carsonfarmer.com" target="_blank">carson farmer</a>.
+  head of research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning. aka @cjqf.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -47,7 +47,7 @@ tagline: >
 links:
   - link:
       icon: "fa-solid fa-rss"
-      text: "carson's website"
+      text: "carsonfarmer.com"
       url: "https://carsonfarmer.com/"
       alt: "carson's website"
       title: "carson's website"
