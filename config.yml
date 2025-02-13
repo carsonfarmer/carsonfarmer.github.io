@@ -35,8 +35,7 @@ name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >-
-  Head of Research <a href="https://x.com/textileio">@textileio</a> and <a href="https://x.com/recallnet">@recallnet</a>,
-  working on distributed systems, data structures, blockchain, and ai/machine learning.
+  Head of Research <a href="https://x.com/textileio">@textileio</a> and <a href="https://x.com/recallnet">@recallnet</a>, working on distributed systems, data structures, blockchain, and ai/machine learning.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -105,5 +104,5 @@ footer: >-
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
-copyright: >
+copyright: >-
   © 2025  <a href="https://carsonfarmer.com" target="_blank">Carson Farmer</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
