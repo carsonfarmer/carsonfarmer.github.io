@@ -35,7 +35,7 @@ name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >
-  head of research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning. aka @cjqf.
+  head of research @textileio, working on distributed systems, data structures, blockchain, and ai/machine learning. aka @cjqf.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -59,13 +59,13 @@ links:
       alt: "textile's mission is to accelerate the exchange of information across society."
       title: "textile's mission is to accelerate the exchange of information across society."
       target: "_blank"
-  - link:
-      icon: "fa-solid fa-briefcase"
-      text: "recall.network"
-      url: "https://recall.network"
-      alt: "recall is the first unstoppable onchian intelligence network for ai agents."
-      title: "recall is the first unstoppable onchian intelligence network for ai agents."
-      target: "_blank"
+  # - link:
+  #     icon: "fa-solid fa-briefcase"
+  #     text: "recall.network"
+  #     url: "https://recall.network"
+  #     alt: "recall is the first unstoppable onchian intelligence network for ai agents."
+  #     title: "recall is the first unstoppable onchian intelligence network for ai agents."
+  #     target: "_blank"
   - link:
       icon: "fa-solid fa-pen-to-square"
       text: "recent paper: geometric search trees"
