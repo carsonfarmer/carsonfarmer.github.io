@@ -31,11 +31,11 @@ title: "Carson Farmer"
 avatar: "./images/profile.png"
 
 # Name section text
-name: "@carsonfarmer"
+name: "@carsonfarmer | @cjqf"
 
 # Tagline section text
 tagline: >
-  Head of Research <a href="https://x.com/textileio">@textileio</a> and <a href="https://x.com/recallnet">@recallnet</a>, working on distributed systems, data structures, blockchain, and ai/machine learning.
+  head of research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning. Someting else <a href="https://carsonfarmer.com" target="_blank">carson farmer</a>.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -47,17 +47,31 @@ tagline: >
 links:
   - link:
       icon: "fa-solid fa-rss"
-      text: "Carson's Website"
+      text: "carson's website"
       url: "https://carsonfarmer.com/"
-      alt: "Carson's Website"
-      title: "Carson's Website"
+      alt: "carson's website"
+      title: "carson's website"
       target: "_blank"
   - link:
       icon: "fa-solid fa-pen-to-square"
-      text: "Recent Paper: Geometric Search Trees"
+      text: "recent paper: geometric search trees"
       url: "https://g-trees.github.io/g_trees/"
-      alt: "A family of randomized, history-independent search tree data structures."
-      title: "A family of randomized, history-independent search tree data structures."
+      alt: "a family of randomized, history-independent search tree data structures."
+      title: "a family of randomized, history-independent search tree data structures."
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-briefcase"
+      text: "textile.io"
+      url: "https://textile.io"
+      alt: "textile's mission is to accelerate the exchange of information across society."
+      title: "textile's mission is to accelerate the exchange of information across society."
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-briefcase"
+      text: "recall.network"
+      url: "https://recall.network"
+      alt: "recall is the first unstoppable onchian intelligence network for ai agents."
+      title: "recall is the first unstoppable onchian intelligence network for ai agents."
       target: "_blank"
 
 # List of social media links
@@ -70,39 +84,39 @@ socials:
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/carsonfarmer"
-      title: "Carson's GitHub"
-      alt: "Carson's GitHub"
+      title: "carson's github"
+      alt: "carson's github"
       target: "_blank"
   - social:
       icon: "fa-brands fa-twitter"
       url: "https://twitter.com/carsonfarmer"
-      title: "Carson's Twitter"
-      alt: "Carson's Twitter"
+      title: "carson's twitter"
+      alt: "carson's twitter"
       target: "_blank"
   - social:
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/carsonfarmer.com"
-      title: "Carson's Bluesky"
-      alt: "Carson's Bluesky"
+      title: "carson's bluesky"
+      alt: "carson's bluesky"
       target: "_blank"
   - social:
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/carsonfarmer/"
-      title: "Carson's LinkedIn"
-      alt: "Carson's LinkedIn"
+      title: "carson's linkedin"
+      alt: "carson's linkedin"
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
       url: "mailto:carson.farner@gmail.com"
-      title: "Email: carson.farmer@gmail.com"
+      title: "email: carson.farmer@gmail.com"
       alt: "carson.farmer@gmail.com"
       target: "_blank"
 
 # Footer text
 footer: >
-  Hi there! Follow me on Twitter, Bluesky, and GitHub and/or reach out via LinkedIn or Email.
+  hi there! follow me on twitter, bluesky, and github and/or reach out via linkedin or email.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2025  <a href="https://carsonfarmer.com" target="_blank">Carson Farmer</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025  <a href="https://carsonfarmer.com" target="_blank">carson farmer</a> | powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
