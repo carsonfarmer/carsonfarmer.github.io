@@ -31,11 +31,12 @@ title: "Carson Farmer"
 avatar: "./images/profile.png"
 
 # Name section text
-name: "@cjqf"
+name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >-
-    Head of Research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning.
+  Head of Research <a href="https://x.com/textileio">@textileio</a> and <a href="https://x.com/recallnet">@recallnet</a>,
+  working on distributed systems, data structures, blockchain, and ai/machine learning.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -53,13 +54,12 @@ links:
       title: "Carson's Website"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-github"
-      text: "Geometric Search Trees"
+      icon: "fa-solid fa-pen-to-square"
+      text: "Recent Paper: Geometric Search Trees"
       url: "https://g-trees.github.io/g_trees/"
       alt: "A family of randomized, history-independent search tree data structures."
       title: "A family of randomized, history-independent search tree data structures."
       target: "_blank"
-
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -95,7 +95,7 @@ socials:
 
 # Footer text
 footer: >
-    Hi there! Follow me on Twitter or GitHub, and stay connected on Twitter.
+  Hi there! Follow me on Twitter and GitHub and/or reach out via LinkedIn or Email.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
