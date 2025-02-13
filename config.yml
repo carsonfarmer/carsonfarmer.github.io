@@ -10,32 +10,32 @@ lang: "en"
 # Use {{ vars.PLUGIN_NAME }} in the settings below
 
 # The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
-plugins:
-  # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username: zhgchgli
-  # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
+# plugins:
+#   # Automatically fetch Medium follower count
+#   - MediumFollowersCountPlugin:
+#       username: zhgchgli
+#   # Automatically fetch Github repo star count
+#   - GithubRepoStarsCountPlugin:
+#       - ZhgChgLi/ZMarkupParser
+#       - ZhgChgLi/ZReviewTender
+#       - ZhgChgLi/ZMediumToMarkdown
+#       - ZhgChgLi/linkyee
 
 # Google Analytics tracking id
-google_analytics_id:
+# google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Carson Farmer"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./images/profile.png"
 
 # Name section text
-name: "@zhgchgli"
+name: "@cjqf"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    Head of Research @textileio and @recallnet, working on distributed systems, data structures, blockchain, and ai/machine learning.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -46,53 +46,18 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-medium"
-      text: "Travelog <span class='link-button-text'>({{vars.MediumFollowersCountPlugin}} Followers)</span>"
-      url: "https://medium.com/ztravel"
-      alt: "ZhgChgLi's Travelog"
-      title: "ZhgChgLi's Travelog"
-      target: "_blank"
-  - link:
       icon: "fa-solid fa-rss"
-      text: "Website"
-      url: "https://zhgchg.li/"
-      alt: "ZhgChgLi's Website"
-      title: "ZhgChgLi's Website"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-swift"
-      text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMarkupParser"
-      alt: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      title: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-markdown"
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
-      alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      title: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
+      text: "Carson's Website"
+      url: "https://carsonfarmer.com/"
+      alt: "Carson's Website"
+      title: "Carson's Website"
       target: "_blank"
   - link:
       icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      text: "Geometric Search Trees"
+      url: "https://g-trees.github.io/g_trees/"
+      alt: "A family of randomized, history-independent search tree data structures."
+      title: "A family of randomized, history-independent search tree data structures."
       target: "_blank"
 
 
@@ -104,47 +69,35 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      url: "https://github.com/carsonfarmer"
+      title: "Carson's GitHub"
+      alt: "Carson's GitHub"
       target: "_blank"
   - social:
       icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
+      url: "https://twitter.com/carsonfarmer"
+      title: "Carson's Twitter"
+      alt: "Carson's Twitter"
       target: "_blank"
   - social:
       icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
-      title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
+      url: "https://www.linkedin.com/in/carsonfarmer/"
+      title: "Carson's LinkedIn"
+      alt: "Carson's LinkedIn"
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      url: "mailto:carson.farner@gmail.com"
+      title: "Email: carson.farmer@gmail.com"
+      alt: "carson.farmer@gmail.com"
       target: "_blank"
 
 # Footer text
 footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
+    Hi there! Follow me on Twitter or GitHub, and stay connected on Twitter.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2024  <a href="https://zhgchg.li" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025  <a href="https://carsonfarmer.com" target="_blank">Carson Farmer</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
