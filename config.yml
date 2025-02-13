@@ -81,6 +81,12 @@ socials:
       alt: "Carson's Twitter"
       target: "_blank"
   - social:
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/carsonfarmer.com"
+      title: "Carson's Bluesky"
+      alt: "Carson's Bluesky"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/carsonfarmer/"
       title: "Carson's LinkedIn"
@@ -94,8 +100,8 @@ socials:
       target: "_blank"
 
 # Footer text
-footer: >
-  Hi there! Follow me on Twitter and GitHub and/or reach out via LinkedIn or Email.
+footer: >-
+  Hi there! Follow me on Twitter, Bluesky, and GitHub and/or reach out via LinkedIn or Email.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
