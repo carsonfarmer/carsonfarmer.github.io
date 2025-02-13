@@ -46,18 +46,11 @@ tagline: >
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-solid fa-rss"
+      icon: "fa-solid fa-house"
       text: "carsonfarmer.com"
       url: "https://carsonfarmer.com/"
       alt: "carson's website"
       title: "carson's website"
-      target: "_blank"
-  - link:
-      icon: "fa-solid fa-pen-to-square"
-      text: "recent paper: geometric search trees"
-      url: "https://g-trees.github.io/g_trees/"
-      alt: "a family of randomized, history-independent search tree data structures."
-      title: "a family of randomized, history-independent search tree data structures."
       target: "_blank"
   - link:
       icon: "fa-solid fa-briefcase"
@@ -72,6 +65,13 @@ links:
       url: "https://recall.network"
       alt: "recall is the first unstoppable onchian intelligence network for ai agents."
       title: "recall is the first unstoppable onchian intelligence network for ai agents."
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-pen-to-square"
+      text: "recent paper: geometric search trees"
+      url: "https://g-trees.github.io/g_trees/"
+      alt: "a family of randomized, history-independent search tree data structures."
+      title: "a family of randomized, history-independent search tree data structures."
       target: "_blank"
 
 # List of social media links
