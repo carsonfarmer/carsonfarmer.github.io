@@ -2,8 +2,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     liquid (5.5.1)
-    mini_portile2 (2.8.7)
-    nokogiri (1.15.6)
+    mini_portile2 (2.8.8)
+    nokogiri (1.18.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     racc (1.8.1)
@@ -14,7 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   liquid (~> 5.5)
-  nokogiri (~> 1.15)
+  nokogiri (~> 1.18)
   yaml (~> 0.3)
 
 BUNDLED WITH
