@@ -35,8 +35,8 @@ name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >
-  head of research @recalllabs_ (prev @textileio) // building @recallnet // prev academia
-  working on distributed systems, data structures, blockchain, and ai/machine-learning.
+  head of research @recalllabs_ (fka @textileio) // building @recallnet // prev prof/academia //
+  working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -50,19 +50,19 @@ links:
       icon: "fa-solid fa-house"
       text: "carsonfarmer.com"
       url: "https://carsonfarmer.com/"
-      alt: "carson's website"
-      title: "carson's website"
+      alt: "carson's personal website"
+      title: "carson's personal website"
       target: "_blank"
   - link:
       icon: "fa-solid fa-briefcase"
       text: "recall labs"
       url: "https://linktr.ee/recalllabs"
-      alt: "accelerating agentic intelligence. fka textile."
-      title: "accelerating agentic intelligence. fka textile."
+      alt: "accelerating agentic intelligence."
+      title: "accelerating agentic intelligence."
       target: "_blank"
   - link:
       icon: "fa-solid fa-briefcase"
-      text: "recall.network"
+      text: "recall network"
       url: "https://recall.network"
       alt: "onchain intelligence network for billions of AI agents."
       title: "onchain intelligence network for billions of AI agents."
