@@ -35,7 +35,7 @@ name: "@carsonfarmer"
 
 # Tagline section text
 tagline: >
-  head of research @recalllabs_ (fka @textileio) // building @recallnet // prev prof/academia //
+  cto & cofounder @recalllabs_ (fka @textileio) // building @recallnet // prev professor/academia // 🇨🇦/acc //
   working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 # List of links
@@ -108,7 +108,7 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:carson.farner@gmail.com"
+      url: "mailto:carson.farmer@gmail.com"
       title: "email: carson.farmer@gmail.com"
       alt: "carson.farmer@gmail.com"
       target: "_blank"
