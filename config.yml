@@ -83,10 +83,10 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-brands fa-twitter"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/carsonfarmer"
-      title: "carson's twitter"
-      alt: "carson's twitter"
+      title: "carson's x/twitter"
+      alt: "carson's x/twitter"
       target: "_blank"
   - social:
       icon: "fa-brands fa-bluesky"
@@ -115,7 +115,7 @@ socials:
 
 # Footer text
 footer: >
-  hi there! follow me on twitter/x, bluesky, and github and/or reach out via linkedin or email.
+  hi there! follow me on x/twitter, bluesky, and github and/or reach out via linkedin or email.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
