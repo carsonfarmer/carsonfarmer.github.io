@@ -54,14 +54,14 @@ links:
       title: "carson's personal calendar"
       target: "_blank"
   - link:
-      icon: "fa-regular fa-briefcase"
+      icon: "fa-regular fa-lightbulb"
       text: "recall labs"
       url: "https://linktr.ee/recalllabs"
       alt: "accelerating agentic intelligence."
       title: "accelerating agentic intelligence."
       target: "_blank"
   - link:
-      icon: "fa-regular fa-chart-network"
+      icon: "fa-regular fa-compass"
       text: "recall network"
       url: "https://recall.network"
       alt: "onchain intelligence network for billions of AI agents."
