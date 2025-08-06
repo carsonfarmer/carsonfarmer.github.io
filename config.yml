@@ -31,11 +31,12 @@ title: "Carson Farmer"
 avatar: "./images/profile.png"
 
 # Name section text
-name: <a href="https://carsonfarmer.com" target="_self">@carsonfarmer</a>
+name: @carsonfarmer
 
 # Tagline section text
 tagline: |
-  cto & cofounder @recalllabs_ (fka @textileio) // building @recallnet // prev professor/academia // 🇨🇦/acc
+  cto & cofounder @recalllabs_ (fka @textileio) // building @recallnet // prev professor/academia // 🇨🇦/acc //
+  
   working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 # List of links
