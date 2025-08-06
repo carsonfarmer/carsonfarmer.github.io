@@ -31,11 +31,11 @@ title: "Carson Farmer"
 avatar: "./images/profile.png"
 
 # Name section text
-name: "@carsonfarmer"
+name: <a href="https://carsonfarmer.com" target="_self">@carsonfarmer</a>
 
 # Tagline section text
-tagline: >
-  cto & cofounder @recalllabs_ (fka @textileio) // building @recallnet // prev professor/academia // 🇨🇦/acc //
+tagline: |
+  cto & cofounder @recalllabs_ (fka @textileio) // building @recallnet // prev professor/academia // 🇨🇦/acc
   working on distributed systems, data structures, blockchain, and ai/machine-learning
 
 # List of links
@@ -47,11 +47,11 @@ tagline: >
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-solid fa-house"
-      text: "carsonfarmer.com"
-      url: "https://carsonfarmer.com/"
-      alt: "carson's personal website"
-      title: "carson's personal website"
+      icon: "fa-solid fa-calendar"
+      text: "calendar link"
+      url: "https://calendar.app.google/AHiwWmnMeeXH9eMP6"
+      alt: "carson's personal calendar"
+      title: "carson's personal calendar"
       target: "_blank"
   - link:
       icon: "fa-solid fa-briefcase"
