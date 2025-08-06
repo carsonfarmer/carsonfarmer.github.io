@@ -47,28 +47,28 @@ tagline: |
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-solid fa-calendar"
+      icon: "fa-regular fa-calendar"
       text: "calendar link"
       url: "https://calendar.app.google/AHiwWmnMeeXH9eMP6"
       alt: "carson's personal calendar"
       title: "carson's personal calendar"
       target: "_blank"
   - link:
-      icon: "fa-solid fa-briefcase"
+      icon: "fa-regular fa-briefcase"
       text: "recall labs"
       url: "https://linktr.ee/recalllabs"
       alt: "accelerating agentic intelligence."
       title: "accelerating agentic intelligence."
       target: "_blank"
   - link:
-      icon: "fa-solid fa-briefcase"
+      icon: "fa-regular fa-chart-network"
       text: "recall network"
       url: "https://recall.network"
       alt: "onchain intelligence network for billions of AI agents."
       title: "onchain intelligence network for billions of AI agents."
       target: "_blank"
   - link:
-      icon: "fa-solid fa-pen-to-square"
+      icon: "fa-regular fa-pen-to-square"
       text: "recent paper: geometric search trees"
       url: "https://g-trees.github.io/g_trees/"
       alt: "a family of randomized, history-independent search tree data structures."
