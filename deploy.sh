@@ -37,7 +37,9 @@ setup_gh() {
 }
 
 backup() {
+  shopt -s dotglob
   mv "$SITE_DIR"/* "$_backup_dir"
+  shopt -u dotglob
   mv .git "$_backup_dir"
 
   if [[ -f CNAME ]]; then
