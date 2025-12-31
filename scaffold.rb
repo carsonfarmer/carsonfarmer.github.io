@@ -97,6 +97,9 @@ File.open(template_file, 'w') do |file|
   file.write(rendered_content)
 end
 
+# Create .nojekyll to ensure dotfiles are served on GitHub Pages
+File.write("#{destination_dir}/.nojekyll", "")
+
 # Generate AI agent files (llms.txt and agent.md) from config
 if settings["ai"]
   ai = settings["ai"]
