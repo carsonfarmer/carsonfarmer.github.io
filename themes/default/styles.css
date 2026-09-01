@@ -8,7 +8,7 @@
 
 /* Light mode (default) */
 body {
-  background-color: #ffffff;
+  background-color: #fffdf5;
   color: #000000;
   display: flex;
   align-items: center;
@@ -134,7 +134,7 @@ a {
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0d1117;
+    background-color: #10162f;
     color: white;
   }
 
@@ -147,16 +147,16 @@ a {
   }
 
   .description {
-    color: #c9d1d9;
+    color: #c9cfe3;
   }
 
   .link-button {
-    background-color: #21262d;
+    background-color: #20294f;
     color: white;
   }
 
   .link-button:hover {
-    background-color: #30363d;
+    background-color: #2b3768;
   }
 
   .icon-button {
@@ -164,10 +164,10 @@ a {
   }
 
   .footer {
-    color: #8b949e;
+    color: #a4aecf;
   }
 
   .link-button-text {
-    color: #8b949e;
+    color: #a4aecf;
   }
 }
