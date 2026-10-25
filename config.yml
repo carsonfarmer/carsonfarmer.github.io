@@ -27,6 +27,16 @@ lang: "en"
 # HTML Title
 title: "Carson Farmer"
 
+# Canonical site URL and metadata for link previews
+url: "https://carsonfarmer.com/"
+description: "Carson Farmer is a hands-on engineering and R&D leader, cofounder & CTO working on AI strategy, architecture, evaluation, and distributed systems."
+social_image:
+  # Use a new filename when replacing this image to refresh social media caches.
+  url: "https://carsonfarmer.com/images/carson-farmer-preview-2026-10.png"
+  width: 512
+  height: 512
+  alt: "Blue halftone portrait of Carson Farmer on a cream background"
+
 # Avatar image path
 avatar: "./images/profile.png"
 
